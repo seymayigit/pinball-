@@ -1,0 +1,5 @@
+http://www.codeproject.com/Articles/22438/Gravity-and-Collision-Simulation-in-C
+
+----Gravity için buradan yardým alabýlýrsýnýz ..burdaký formullerý kullanmýstým ben 
+
+---PinBall_seyma rar yaptýgým dosyada kollarýn hareketý topa carpma kýsmý var ordanda yardým alabýlýrsýnýz fakat kollardan top dogru býr sekýlde sekmýyor bakýnca anlarsýnýz zaten ..
