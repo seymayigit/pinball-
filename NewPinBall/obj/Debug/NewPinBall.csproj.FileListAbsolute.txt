@@ -1,0 +1,36 @@
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\bin\Debug\NewPinBall.exe.config
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\bin\Debug\NewPinBall.exe
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\bin\Debug\NewPinBall.pdb
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\obj\Debug\NewPinBall.csprojResolveAssemblyReference.cache
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\obj\Debug\NewPinBall.Properties.Resources.resources
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\obj\Debug\NewPinBall.csproj.GenerateResource.Cache
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\obj\Debug\NewPinBall.exe
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\obj\Debug\NewPinBall.pdb
+C:\Users\Hatice Şeyma\Desktop\Project\NewPinBall\NewPinBall\obj\Debug\NewPinBall.MiniPinball.resources
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\bin\Debug\NewPinBall.exe.config
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\obj\Debug\NewPinBall.exe
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\obj\Debug\NewPinBall.pdb
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\bin\Debug\NewPinBall.exe
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\bin\Debug\NewPinBall.pdb
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\obj\Debug\NewPinBall.csprojResolveAssemblyReference.cache
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\obj\Debug\NewPinBall.MiniPinball.resources
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\obj\Debug\NewPinBall.Properties.Resources.resources
+C:\Users\ISAS\Desktop\NewPinBall\NewPinBall\obj\Debug\NewPinBall.csproj.GenerateResource.Cache
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\bin\Debug\NewPinBall.exe.config
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.pdb
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\bin\Debug\NewPinBall.exe
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\bin\Debug\NewPinBall.pdb
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.csprojResolveAssemblyReference.cache
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.MiniPinball.resources
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.Properties.Resources.resources
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.csproj.GenerateResource.Cache
+C:\Users\Hatice Şeyma\Desktop\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.exe
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\bin\Debug\NewPinBall.exe.config
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.exe
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.pdb
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\bin\Debug\NewPinBall.exe
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\bin\Debug\NewPinBall.pdb
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.csprojResolveAssemblyReference.cache
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.MiniPinball.resources
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.Properties.Resources.resources
+I:\aboutPinball\NewPinBall\NewPinBall - Copy\NewPinBall\obj\Debug\NewPinBall.csproj.GenerateResource.Cache
